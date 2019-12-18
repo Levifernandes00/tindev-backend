@@ -1,4 +1,4 @@
-#TINDEV-ROCKETSEAT
+# TINDEV-ROCKETSEAT
 
 Esse é um projeto da rocketseat dado na Omnistack 8.0.
 
@@ -6,9 +6,10 @@ O projeto se baseia em construir um Tinder para desenvolvedores em que poderão 
 
 Essa é a parte do backend do projeto.
 
-##Como rodar
+## Como rodar
 
 somente executar o seguinte comando:
 
+```
 nodemon src/server.js
-
+```
